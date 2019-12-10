@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600821467898",
+    "firebase_url": "https://lauras-awesome-project.firebaseio.com",
+    "project_id": "lauras-awesome-project",
+    "storage_bucket": "lauras-awesome-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600821467898:android:c5d882a377ae4124659743",
+        "android_client_info": {
+          "package_name": "com.example.laurasawesomeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600821467898-1lbb9jsifqa82dsdv42fjocrruj61aat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laurasawesomeapp",
+            "certificate_hash": "45535d3225e5078951bf6f6eb008c1d0cf6d1d84"
+          }
+        },
+        {
+          "client_id": "600821467898-dnh14l4ogdi84fnidkhapbfd9k3fbamh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9XRCV0M2nStDUxg_UkTnMv_Z6LyG9tno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600821467898-dnh14l4ogdi84fnidkhapbfd9k3fbamh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
